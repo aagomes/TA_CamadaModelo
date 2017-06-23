@@ -36,7 +36,7 @@ public class TestePersistirAluno {
         boolean exception = false;
         try {
             Aluno obj = new Aluno();
-            obj.setNome("ZE Gomes");
+            obj.setNome("Yuri Gomes");
             obj.setSexo("masculino");
             obj.setDataNascimento(Calendar.getInstance());
             obj.setCpf("123.456.777-88");
